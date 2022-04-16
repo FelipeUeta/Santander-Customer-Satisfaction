@@ -1,2 +1,3 @@
-# Santander-Customer-Satisfaction
+# Data Science Academy (https://www.datascienceacademy.com.br) Santander-Customer-Satisfaction
+
 You are provided with an anonymized dataset containing a large number of numeric variables. The "TARGET" column is the variable to predict. It equals one for unsatisfied customers and 0 for satisfied customers. The task is to predict the probability that each customer in the test set is an unsatisfied customer.
